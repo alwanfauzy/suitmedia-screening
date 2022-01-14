@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Suitmedia Screening</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="check">check</string>
+    <string name="next">Next</string>
+    <string name="image_add_profile">Image Add Profile</string>
+    <string name="input_error">Input Required</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">Username</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="firstname_lastname">Firstname Lastname</string>
+    <string name="email">Email@Email.com</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="image_back">Image Back</string>
+    <string name="data_empty">Data Empty</string>
+    <string name="is_palindrome">isPalindrome</string>
+    <string name="not_palindrome">not palindrome</string>
+</resources>
